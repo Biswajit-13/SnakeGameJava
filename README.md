@@ -6,6 +6,6 @@ Java, Swing, Eclipse
 
 #What I learned
 Java game building logic.
-Key manipulation.
+Keyboard manipulation in Java.
 Importance of math in programming.
 GUI with Swift.
