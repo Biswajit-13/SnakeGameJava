@@ -1,11 +1,11 @@
 # Snake game
-a desktop application that allows players to control the snake and eat apples to get points without colliding.
+A desktop application that allows players to control the snake and eat apples to get points without colliding.
 
-#Tech used
+# Tech used
 Java, Swing, Eclipse 
 
-#What I learned
-Java game building logic.
-Keyboard manipulation in Java.
-Importance of math in programming.
-GUI with Swift.
+# What I learned
+* Java game building logic.
+* Keyboard manipulation in Java.
+* Importance of math in programming.
+* GUI with Swift.
