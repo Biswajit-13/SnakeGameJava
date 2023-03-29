@@ -1,4 +1,4 @@
-#Snake game
+# Snake game
 a desktop application that allows players to control the snake and eat apples to get points without colliding.
 
 #Tech used
